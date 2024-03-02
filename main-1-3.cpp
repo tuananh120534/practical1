@@ -1,7 +1,6 @@
 #include <iostream>
 extern int num_count(int array[], int n, int number);
 int main() {
-    // Example usage
     int myArray[] = {2, 2, 6, 7, 2, 5, 2};
     int size = 7;
     int targetNumber = 3;
