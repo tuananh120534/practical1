@@ -13,7 +13,7 @@ double array_mean(int array[], int n) {
     }
 
     // Calculate the average and cast sum to double for precise division
-    double average = static_cast<double>(sum) / n;
+    double average = double(sum) / n;
 
     return average;
 }
