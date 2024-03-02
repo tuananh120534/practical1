@@ -1,7 +1,7 @@
 #include <iostream>
 extern int array_mean(int array[], int n);
 int main() {
-    // Example usage
+    
     int myArray[] = {1, 2, 3, 4, 5};
     int size = 5;
 
